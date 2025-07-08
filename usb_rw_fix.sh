@@ -1,4 +1,5 @@
 #!/bin/bash
+
 echo "Buscando dispositivos USB..."
 lsblk -o NAME,SIZE,RO,TYPE,MOUNTPOINT | grep -E 'disk|part'
 
