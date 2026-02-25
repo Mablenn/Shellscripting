@@ -14,8 +14,8 @@ echo "" # Genera un salto de línea
 # 2.
 # La declaración de variables siempre sigue el mismo patrón 'nombre=valor', sin espacios antes y después del signo '='
 # Diferencia entre definir variables numéricas o de texto:
-numero=240
-texto="siempre entre comillas dobles"
+numero=240                               # Variable de tipo numérico
+texto="siempre entre comillas dobles"    # Variable de tipo texto
 
 # Mostrar variables
 echo "Valor de la variable 'numero': $numero"
