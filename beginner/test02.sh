@@ -16,8 +16,8 @@ echo ""
 # $1 -> El primer parámetro.
 # $2 -> El segundo parámetro, $3 será el tercer parámetros, y así hasta los n parámetros del script.
 
-echo 'Nombre del script $0'
-echo 'Número de parámetros totales: $#'
+echo "Nombre del script $0"
+echo "Número de parámetros totales: $#"
 echo ''
 
 
