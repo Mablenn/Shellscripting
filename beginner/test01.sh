@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/bash    #shebang (#!) indica qué intérprete se utiliza para ejecutar el script. En este caso el /bin/bash
 
 # 1. Mostrar texto por consola
 # 2. Uso de variables
